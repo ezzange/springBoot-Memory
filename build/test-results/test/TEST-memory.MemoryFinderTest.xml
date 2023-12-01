@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testsuite name="memory.MemoryFinderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-26T07:16:45" hostname="ezzange-Mac-Studio.local" time="0.043">
+  <properties/>
+  <testcase name="get()" classname="memory.MemoryFinderTest" time="0.043"/>
+  <system-out><![CDATA[memory = Memory{used=12259328, max=536870912}
+=======
 <testsuite name="memory.MemoryFinderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-26T14:05:39" hostname="ezzange-Mac-Studio.local" time="0.041">
   <properties/>
   <testcase name="get()" classname="memory.MemoryFinderTest" time="0.041"/>
   <system-out><![CDATA[memory = Memory{used=12508160, max=536870912}
+>>>>>>> origin/main
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+.memory = Memory{used=12259328, max=536870912}
+=======
 .memory = Memory{used=12508160, max=536870912}
+>>>>>>> origin/main
